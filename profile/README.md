@@ -54,5 +54,5 @@ Anyone can start contributing — no permission needed:
 ---
 
 <p align="center">
-  <sub>Built with <a href="https://nuxt.com">Nuxt</a> · Hosted on <a href="https://pages.cloudflare.com">Cloudflare Pages</a></sub>
+  <sub>Built with <a href="https://nuxt.com">Nuxt</a> · Hosted on <a href="https://pages.github.com">GitHub Pages</a></sub>
 </p>
